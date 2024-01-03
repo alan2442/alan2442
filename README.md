@@ -1,4 +1,5 @@
 ## Hello, my name is Alan Nogueira 🖐️, I'm From Brasil
+### Email: alan.nogueira40@hotmail.com
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-nogueira-3a4976206/)
