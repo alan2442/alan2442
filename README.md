@@ -1,4 +1,3 @@
-
 ## Hello, my name is Alan Nogueira 🖐️, I'm From Brasil
 
 
@@ -24,10 +23,10 @@
 
 ## Completed Courses (Cursos Concluidos):
 
-### - Etec Lauro Gomes: Administration Technician(Técnico em Administração) 
-### - Etec Juscelino Kubitischek de Oliveira: Software Analysis and Development Technician (Técnico em Análise e Desenvolvimento de Software) 
-### - Instituto PROA: JAVA Programming (Programação em Java)
+#### - Etec Lauro Gomes: Administration Technician(Técnico em Administração) 
+#### - Etec Juscelino Kubitischek de Oliveira: Software Analysis and Development Technician (Técnico em Análise e Desenvolvimento de Software) 
+#### - Instituto PROA: JAVA Programming (Programação em Java)
 
 ## Studying(Cursando):
-### - Fluency Academy: English
-### - Udemy: Web development(Desenvolvimento Web)
+#### - Fluency Academy: English
+#### - Udemy: Web development(Desenvolvimento Web)
