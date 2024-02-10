@@ -29,5 +29,5 @@
 #### - Instituto PROA: JAVA Programming (Programação em Java)
 
 ## Studying(Cursando):
-#### - Fluency Academy: English
+#### - Fluency Academy: English / Nível: intermediário
 #### - Udemy: Web development(Desenvolvimento Web)
